@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <i>Eduardo Ribeiro</i> 😄</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <i>André Macuco</i> 😄</h1>
   <p align="center">Estudando programação para conseguir me tornar um <i>Desenvolvedor Web</i>
   <p align="center">Vai um cafézinho ai? ☕</h2>
 </div>
