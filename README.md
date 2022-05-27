@@ -1,4 +1,11 @@
-## Olá, eu sou André Macuco! 😄
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <i>Eduardo Ribeiro</i> 😄</h1>
+  <p align="center">Estudando programação para conseguir me tornar um <i>Desenvolvedor Web</i>
+  <p align="center">Vai um cafézinho ai? ☕</h2>
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/andxz18">
   <img height="157em" src="https://github-readme-stats.vercel.app/api?username=andxz18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,4 +33,11 @@
 
    ![Snake animation](https://github.com/andxz18/andxz18/blob/output/github-contribution-grid-snake.svg)
  
+</div>
+
+##
+  
+<div align="center">
+  <p>Feito com :heart: e JavaScript</p>
+  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
